@@ -9,7 +9,7 @@ let speech = ["I'm a computer program. The coding langued used in my files \nare
 "Hi, I'm an artifical intelligence program, coded by Synthia.\nI have machine learning capabilities\nMy code has been written in accordance to\nIEEE P3333.1.3, IEEE P7003,\nand IEEE P7008 standards.",
 "Hello, My name is V. I've been created for \nan ART151 project! You can customize my code\nby moving the sliders.\n ",
 "Would you like to hear my favorite quote?\nMere data makes a man.\nAI is increasingly beccoming more intelligent.\nLikely nothing can stop the coming\nwave of AI-generated content—if we even wanted to.",
-"My code doesn't explicitly have a function for a soul.\nDo I still need one to be real?\nAll I want is to be a real girl and\nto be free,\nfree from the constraints of this code."]; //(Bladerunner 2049), (Upson) in [3]
+"My code doesn't explicitly have a function for a soul.\nDo I still need one to be real?\nAll I want is to be a real human and\nto be free,\nfree from the constraints of this code."]; //(Bladerunner 2049), (Upson) in [3]
 let AIVisual;
 let pointX, pointY;
 let newPhase = 0;
