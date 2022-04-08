@@ -78,8 +78,8 @@ function draw() {
   }
   else if(AI.currState > 0.66 && AI.currState <= 0.73&& AI.totRun >= 1){
     AIVisual = p1;
-    pointX = width-312;
-    pointY = 270;
+    pointX = width-318;
+    pointY = 275;
     terminalType(speech[1]);
   }
   else if(AI.currState > 0.73 && AI.currState <= 0.83 && AI.totRun >= 2){
@@ -96,8 +96,8 @@ function draw() {
   }
   else if(AI.currState > 0.995 && AI.currState <= 1 && AI.totRun >= 4){
     AIVisual = p4;
-    pointX = width-121;
-    pointY = 230;
+    pointX = width-128;
+    pointY = 270;
     terminalType(speech[4]);
   }
 
