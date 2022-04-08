@@ -67,7 +67,7 @@ function draw() {
     xTextMove = 2;
     
     drawingContext.shadowBlur = 0;
-    text("This AI presents with\na minimalistic aesthetic.\n\nPassed Mechanisms:\n - Emotional Recognition/Expression\n - Self-Related Modulation\n - Theory of Mind\n\nConfirmatory Factor Analysis (Pelau's Model):\n anthropomorphic characteristics: M = 2.54\n empaty: 3.63\n interaction quality: M=5.04\n trust: 4.04", xText, 30); // (Ozge) (Pelau)
+    text("This AI presents with\na minimalistic aesthetic.\n\nPassed Mechanisms:\n - Emotional Recognition/Expression\n - Self-Related Modulation\n - Theory of Mind\n\nConfirmatory Factor Analysis (Pelau's Model):\n anthropomorphic characteristics: M = 2.54\n empathy: 3.63\n interaction quality: M=5.04\n trust: 4.04", xText, 30); // (Ozge) (Pelau)
     if(xText == 10){
         xTextMove = 0;
     }
@@ -89,7 +89,7 @@ function draw() {
     xTextMove2 = 2;
     
     drawingContext.shadowBlur = 0;
-    text("This AI presents as Symonne.\nThis AI is far more advanced in social relations\nand empathetic responses.\n\nPassed Mechanisms:\n - Emotional Recognition/Expression\n - Emotional Representation\n - Self-Related Modulation\n - Relationship-Related Modulation\n - Theory of Mind\n - (Re) Appraisal\n\nConfirmatory Factor Analysis (Pelau's Model):\n anthropomorphic characteristics: M = 5.55\n empaty: 9.99\n interaction quality: M=7.77\n trust: 8.88", xText2, 30); // (Ozge) (Pelau)
+    text("This AI presents as Symonne.\nIt is far more advanced in social relations\nand empathetic responses.\n\nPassed Mechanisms:\n - Emotional Recognition/Expression\n - Emotional Representation\n - Self-Related Modulation\n - Relationship-Related Modulation\n - Theory of Mind\n - (Re) Appraisal\n\nConfirmatory Factor Analysis (Pelau's Model):\n anthropomorphic characteristics: M = 5.55\n empathy: 9.99\n interaction quality: M=7.77\n trust: 8.88", xText2, 30); // (Ozge) (Pelau)
     if(xText2 == 10){
         xTextMove2 = 0;
     }
